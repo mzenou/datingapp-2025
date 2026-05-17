@@ -8,7 +8,7 @@ export type User = {
 
 export type LoginCreds = {
     email: string;
-    passzord: string;
+    password: string;
 }
 
 export type RegisterCreds = {
