@@ -79,6 +79,7 @@ Data/
  Seed.cs
 DTOs/
  LoginDTO.cs
+ MemberUpdateDTO.cs
  RegisterDTO.cs
  SeedUserDTO.cs
  UserDTO.cs
